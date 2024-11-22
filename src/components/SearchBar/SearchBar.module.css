@@ -1,0 +1,19 @@
+.header {
+  background-color: darkslateblue;
+}
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.input {
+  border: 1px solid gray;
+  width: 360px;
+  height: 25px;
+  font-size: 14px;
+  padding: 5px 10px;
+}
+.btn {
+  border: 1px solid gray;
+}
